@@ -7,7 +7,7 @@ We spotlight the under-representation of individuals with physical motor impairm
 A poster detailing the barriers and proposed solutions was presented at the Robotics: Science and Systems 2023 workshop titled "Lowering Barriers for Robotics Research". Find a copy of the poster [here](rss_loweringbarriers_poster.pdf).
 
 ## A video by Kevin Rowland
-[video](https://github.com/argallab/accessible-robotics/assets/71840805/56c52f3e-88ea-4b32-82d8-66b6043d0fd6)
+[kevin_loweringbarriers_video.webm](https://github.com/argallab/accessible-robotics/assets/71840805/4e81c1bf-e3bb-40e3-be7e-74d41913ebcf)
 
 ## Contact information
 Andrew Thompson: andrewthompson2019@u.northwestern.edu
