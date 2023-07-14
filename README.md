@@ -9,9 +9,6 @@ A poster detailing the barriers and proposed solutions was presented at the Robo
 ## A video by Kevin Rowland
 [kevin_loweringbarriers_video.webm](https://github.com/argallab/accessible-robotics/assets/71840805/4e81c1bf-e3bb-40e3-be7e-74d41913ebcf)
 
-<figure class="video_container">
-  <iframe src="https://vimeo.com/manage/videos/845175064" frameborder="0" allowfullscreen="true"> </iframe>
-</figure>
 
 ## Contact information
 Andrew Thompson: andrewthompson2019@u.northwestern.edu
