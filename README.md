@@ -8,3 +8,7 @@ A poster detailing the barriers and proposed solutions was presented at the Robo
 
 ## A video by Kevin Rowland
 
+## Contact information
+Andrew Thompson: andrewthompson2019@u.northwestern.edu
+Larisa Loke: larisaycl@u.northwestern.edu
+Mahdieh Nejati Javaremi: m.nejati@u.northwestern.edu
