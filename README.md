@@ -8,6 +8,10 @@ A poster detailing the barriers and proposed solutions was presented at the Robo
 
 ## A video by Kevin Rowland
 
+<figure class="video_container">
+  <iframe src="https://vimeo.com/manage/videos/845175064" frameborder="0" allowfullscreen="true"> </iframe>
+</figure>
+
 ## Contact information
 Andrew Thompson: andrewthompson2019@u.northwestern.edu
 
